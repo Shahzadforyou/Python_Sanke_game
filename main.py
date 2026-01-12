@@ -8,7 +8,7 @@ you_dict = {
 
 }
 
-you = str(input("Enter \'a\' or \'s\'or \'d\'"))
+you = str(input("Enter \'a\' or \'s\'or \'d\' =>"))
 you_value = you_dict[you]
 
 if(you == 'a' or you == 's' or you == 'd' ):
